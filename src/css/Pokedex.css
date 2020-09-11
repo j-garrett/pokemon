@@ -1,0 +1,35 @@
+#search-container {
+    margin: 20px;
+    display: flex;
+}
+
+.type-filter {
+    display: flex;
+    flex-direction: column;
+}
+
+.type-filter {
+    display: flex;
+    flex-direction: column;
+}
+
+#pokedex-container {
+    display: flex;
+}
+
+#pokedex-list-container {
+    flex-basis: auto;
+    height: 70vh;
+    overflow: scroll;
+    margin-left: 10px;
+    margin-right: -1px;
+    border-bottom: 1px solid black;
+    padding-left: 1px;
+}
+
+#pokedex-details-container {
+    flex-basis: auto;
+    margin-right: 10px;
+    width: 70vw;
+    height: 70vh;
+}

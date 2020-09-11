@@ -1,0 +1,18 @@
+#selected {
+    background-color: yellowgreen;
+    border: 1px solid black;
+    border-right: 0;
+}
+.poke-list-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    padding: 10px;
+    border-radius: 10px 0 0 10px;
+}
+
+.poke-list-item h2 {
+    padding-left: 8px;
+    margin: 0;
+}

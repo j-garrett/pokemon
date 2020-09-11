@@ -1,0 +1,12 @@
+.pill-container {
+    border: 1px solid #6d6d4e;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 1px;
+    text-align: center;
+    width: 100px;
+}
+
+.pill-text {
+    color: #fff;
+}
